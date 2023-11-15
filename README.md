@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Oliver</h1>
-<h3 align="center">An aspiring Software Developer/Engineers that specialize in Java Programming Language</h3>
+<h3 align="center">An aspiring Software Developer/Engineer that specialize in Java Programming Language</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif">
 
