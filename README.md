@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 # Francis Oliver<br><br>- BS Information Technology student  <br>- Full-Stack Developer  <br>
 
 
